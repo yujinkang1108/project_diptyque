@@ -1,0 +1,35 @@
+/* 
+font-family: 'SBAggroB'
+font-family:'GmarketSansMedium'; 
+*/
+
+@font-face {
+    font-family: 'SBAggroB';
+    src: url(../fonts/SB_aggro_L.woff);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'SBAggroB';
+    src: url(../fonts/SB_aggro_M.woff);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'SBAggroB';
+    src: url(../fonts/SB_aggro_B.woff);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'GmarketSans';
+    src: url(../fonts/GmarketSansLight.woff);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'GmarketSans';
+    src: url(../fonts/GmarketSansMedium.woff);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'GmarketSans';
+    src: url(../fonts/GmarketSansBold.woff);
+    font-weight: 700;
+}

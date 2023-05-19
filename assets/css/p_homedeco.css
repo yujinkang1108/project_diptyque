@@ -1,0 +1,15 @@
+/* 헤더 */
+.header .group-bar{
+    border: 1px solid #000;
+}
+
+/* .sc-content */
+.sc-content{
+    padding-top: 5vh;
+    padding-bottom: 20vh;
+}
+
+/* 푸터 */
+.footer .group-top{
+    background-color: #ECEDFF;
+}
