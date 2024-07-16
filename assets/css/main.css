@@ -38,3 +38,11 @@
 .sc-txt .letter.last{
     text-align: right;
 }
+
+/* sc-content */
+.sc-content{
+    background: #fff;
+}
+.sc-content img{
+    margin: 0 auto;
+}
